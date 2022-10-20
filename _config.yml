@@ -1,0 +1,28 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Setup
+title:          gkduss
+baseurl:        ""
+url:            "https://gkduss.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Hayeon
+  url:          https://gkduss.github.io
+  email:        gkduss.dev@gmail.com  
+  github:       gkduss
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/gkduss/gkduss.github.io
