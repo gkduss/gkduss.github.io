@@ -1,7 +1,8 @@
 - name: Security
-- name: Network
-- name: Linux
 - name: Web hacking
 - name: Digital Forensics
 - name: Python
+- name: Network
+- name: Cryptography
+- name: Linux
 - name: Communication
