@@ -1,4 +1,6 @@
 - name: Security
+- name: Network
+- name: Linux
 - name: Web hacking
 - name: Digital Forensics
 - name: Python
