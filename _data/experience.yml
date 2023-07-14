@@ -1,24 +1,29 @@
+sixth-place:
+- name: SK브로드밴드 인턴
+  role: 보안 솔루션, ISMS
+  date: 2023. JUL - AUG
+
 fifth-place:
 - name: K-Shield Jr
   role: Web hacking
   date: 2022. JUN - AUG
 
 fourth-place:
+- name: 중앙선거관리위원회 인턴
+  role: Digital Forensics
+  date: 2022. JAN - MAY
+
+third-place:
 - name: Risk Management
   role: ISMS, Machine Learning
   date: 2021. SEP - DEC
 
-third-place:
-- name: Crawler revenue
+second-place:
+- name: Web Crawler revenue
   role: PM, Developer
   date: 2021. FEB - JUN
 
-second-place:
+first-place:
 - name: Marine Digital Forensics
   role: V-PASS Equipment analyst
   date: 2021. JAN - DEC
-
-first-place:
-- name: Web Crawler
-  role: Developer
-  date: 2020. JUL - 2021. DEC
