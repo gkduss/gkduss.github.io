@@ -2,7 +2,5 @@
 - name: Web hacking
 - name: Digital Forensics
 - name: Python
-- name: Infra
 - name: Linux
-- name: Network
 - name: Communication
