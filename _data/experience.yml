@@ -1,7 +1,12 @@
+eighth-place:
+- name: LG U+
+  role: CERT
+  date: 2026. JAN - Current
+
 seventh-place:
 - name: Toss Securities
-  role: 공급망 보안, SAC, DAC, NAC, KMS, Mail
-  date: 2023. DEC - Current
+  role: 공급망 보안, DAC, SAC, KMS, DB암호화, Mail
+  date: 2023. DEC - 2025. DEC
 
 sixth-place:
 - name: SK브로드밴드 인턴
